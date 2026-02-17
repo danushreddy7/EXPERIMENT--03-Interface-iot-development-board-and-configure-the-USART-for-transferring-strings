@@ -94,6 +94,9 @@ UART transmits and receives data asynchronously, meaning there is no shared cloc
 
 
 ## Output screen shots of Serial port utility   :
+
+<img width="1918" height="1022" alt="IOT-03" src="https://github.com/user-attachments/assets/7e6227c4-c9bf-4c7f-93df-5a2940e7f3ee" />
+
  
  
  
